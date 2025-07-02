@@ -39,10 +39,10 @@ This project showcases a complete data analysis workflow on the **Superstore** d
 
 | Sub-Category | Total Profit |
 |--------------|--------------|
+| Copiers      |55,617.82     |
 | Phones       | 44,515.73    |
 | Accessories  | 41,867.82    |
 | Paper        | 34,009.47    |
-| Tables       | -17,725.48   |
 
 ---
 
