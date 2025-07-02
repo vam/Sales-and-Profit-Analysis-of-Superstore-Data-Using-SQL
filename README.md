@@ -55,8 +55,7 @@ This project showcases a complete data analysis workflow on the **Superstore** d
 ## 🧠 Key Insights
 
 - **California** leads in both sales and profit
-- **Phones** and **Accessories** are top profitable categories
-- High discounting can result in **negative profit**, especially in furniture
+- **Copiers**,**Phones** and **Accessories** are top profitable categories
 
 ---
 
